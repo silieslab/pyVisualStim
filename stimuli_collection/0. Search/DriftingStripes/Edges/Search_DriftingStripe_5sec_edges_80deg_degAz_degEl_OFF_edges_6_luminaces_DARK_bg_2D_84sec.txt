@@ -1,0 +1,17 @@
+EPOCHS			13			
+MAXRUNTIME			0			
+STIMULUSDATA		NULL	
+PERSPECTIVE_CORRECTION 	1
+RANDOMIZATION_MODE	1
+		
+Stimulus.stimtype			C	DS		DS	DS	DS	DS	DS	DS		DS	DS	DS	DS	DS	
+Stimulus.bg				0	0.0625	0.125	0.25	0.5	0.75	1	0.0625	0.125	0.25	0.5	0.75	1
+Stimulus.fg				0	0		0	0	0	0	0	0		0	0	0	0	0
+Stimulus.duration			2	5		5	5	5	5	5	5		5	5	5	5	5
+Stimulus.radius			120	0		0	0	0	0	0	0		0	0	0	0	0
+Stimulus.velocity			0	20		20	20	20	20	20	20		20	20	20	20	20
+Stimulus.direction		0	-1		-1	-1	-1	-1	-1	1		1	1	1	1	1
+Stimulus.bar.width		0	80		80	80	80	80	80	80		80	80	80	80	80
+Stimulus.bar.height		0	480		480	480	480	480	480	480		480	480	480	480	480
+Stimulus.bar.orientation	0	0		0	0	0	0	0	0		0	0	0	0	0
+Stimulus.tau			2	1		1	1	1	1	1	1		1	1	1	1	1	

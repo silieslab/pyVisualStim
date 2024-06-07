@@ -1,0 +1,19 @@
+EPOCHS  2
+MAXRUNTIME  0
+STIMULUSDATA    		NULL
+PERSPECTIVE_CORRECTION	1
+RANDOMIZATION_MODE	0
+
+Stimulus.stimtype   		stripe	stripe
+Stimulus.bg		   	0.5	0.5
+Stimulus.fg	   		1	1
+Stimulus.bg.duration 		1	1
+Stimulus.bar.duration   	1	1
+Stimulus.bar.width  		5	5
+Stimulus.bar.height 		360	360
+Stimulus.bar.orientation    	0	90
+Stimulus.bar.xmin   		-100	-100
+Stimulus.bar.xmax   		100	100
+Stimulus.bar.ymax   		100	100
+Stimulus.bar.ymin   		-100	-100
+Stimulus.bar.distance   	2.5	2.5

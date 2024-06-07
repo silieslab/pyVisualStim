@@ -1,0 +1,19 @@
+EPOCHS			4	
+MAXRUNTIME			0
+STIMULUSDATA		NULL
+PERSPECTIVE_CORRECTION	1
+RANDOMIZATION_MODE	1
+
+Stimulus.stimtype		C	R	R	R
+Stimulus.bg			0.5	0.5	0.5	0.5	
+Stimulus.fg			0.5	0	0	0
+Stimulus.duration		3	1	1	1
+Stimulus.height		0	4.5	4.5	4.5
+Stimulus.width		0	4.5	4.5	4.5
+Stimulus.radius		120	0	0	0
+Stimulus.tau		0	0	0	0
+Stimulus.x_center		0	0	0	0
+Stimulus.y_center		0	0	0	0
+Stimulus.pers.corr	0	0	0	0
+Stimulus.number		1	2	3	1
+Stimulus.interSpace	0	10	10	10

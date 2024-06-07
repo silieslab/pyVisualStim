@@ -1,0 +1,18 @@
+EPOCHS  2
+MAXRUNTIME  0
+STIMULUSDATA    		TERNARY_TEXTURE
+PERSPECTIVE_CORRECTION	1
+RANDOMIZATION_MODE	0
+
+Stimulus.stimtype		circle	noise
+Stimulus.bg			0.5	0
+Stimulus.fg			0.5	0
+Stimulus.texture.duration    	0	0.05
+Stimulus.texture.count   	0	10000
+Stimulus.texture.hor_size   	0	16
+Stimulus.texture.vert_size   	0	1
+Stimulus.duration		2	0
+Stimulus.radius			120	0
+Stimulus.tau			2	0
+Stimulus.x_center		0	0
+Stimulus.y_center		0	0

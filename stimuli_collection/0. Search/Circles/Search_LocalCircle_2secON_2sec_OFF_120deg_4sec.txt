@@ -1,0 +1,14 @@
+EPOCHS			2	
+MAXRUNTIME			0
+STIMULUSDATA		NULL
+PERSPECTIVE_CORRECTION	1
+RANDOMIZATION_MODE	0
+
+Stimulus.stimtype		circle	circle
+Stimulus.bg			0		1
+Stimulus.fg			0		1
+Stimulus.duration		2		2
+Stimulus.radius		120		120
+Stimulus.tau		0		0
+Stimulus.x_center		0		0
+Stimulus.y_center		0		0
