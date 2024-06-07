@@ -1,0 +1,10 @@
+ID,value
+USER_ID,seb
+EXP_NAME,Neuron_X_name
+SUBJECT_ID,fly1
+TSERIES_NUMBER,001
+GENOTYPE,Neuron_X_genotype
+CONDITION,ExpLine
+STIMULUS_ID,stim_name
+AGE,4
+SEX,f
